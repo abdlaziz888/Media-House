@@ -5,7 +5,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=7587&extensio
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6627&extension=ts&play_token=6ijthi8tH9
 
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/g0GxQ2VX/Logo-de-TV1-Algerie-(2020)-svg.png",programme nation HD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077070&extension=ts&play_token=UqrCRYm7Z8
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6724&extension=ts&play_token=OQlAmQBqFp
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/NMG6w4cw/Canal-Algerie.png",Canal algerie HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6723&extension=ts&play_token=ZLqRX3BxcB
 #EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/Fzxrjjqs/entv.png",A3 HD
@@ -205,38 +205,60 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671283&extens
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671282&extension=ts&play_token=dJ7ruDoYpz
 
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="ARABE SPORTS",KSA SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="ARABE Channels",KSA SPORTS 1 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079507&extension=ts&play_token=zioeF83Rhz
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="ARABE SPORTS",KSA SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="ARABE Channels",KSA SPORTS 2 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079506&extension=ts&play_token=IuXr2POzZc
-#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="ARABE SPORTS",KSA SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="ARABE Channels",KSA SPORTS 3 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079505&extension=ts&play_token=pa5oUFxoxG
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS1Y2025MAR/ADMNADSPORTS1Y2025MAR-title-logo-en.png" group-title="ARABE SPORTS",AD SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS1Y2025MAR/ADMNADSPORTS1Y2025MAR-title-logo-en.png" group-title="ARABE Channels",AD SPORTS 1 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591601&extension=ts&play_token=ijqe9do2wE
-#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS2Y2025MAR/ADMNADSPORTS2Y2025MAR-title-logo-en.png" group-title="ARABE SPORTS",AD SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS2Y2025MAR/ADMNADSPORTS2Y2025MAR-title-logo-en.png" group-title="ARABE Channels",AD SPORTS 2 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591600&extension=ts&play_token=McCkHmXips
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_1.png" group-title="ARABE SPORTS",Alkass Sports one FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_1.png" group-title="ARABE Channels",Alkass Sports one FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591593&extension=ts&play_token=hasEdp7HLU
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_2.png" group-title="ARABE SPORTS",Alkass Sports two FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_2.png" group-title="ARABE Channels",Alkass Sports two FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591591&extension=ts&play_token=f89PSNB468
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_3.png" group-title="ARABE SPORTS",Alkass Sports three FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_3.png" group-title="ARABE Channels",Alkass Sports three FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=787903&extension=ts&play_token=Ilw2VhAn7y
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_4.png" group-title="ARABE SPORTS",Alkass Sports four FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_4.png" group-title="ARABE Channels",Alkass Sports four FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591588&extension=ts&play_token=kY6lYMpaSg
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_5.png" group-title="ARABE SPORTS",Alkass Sports five FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_5.png" group-title="ARABE Channels",Alkass Sports five FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591587&extension=ts&play_token=KI30CaQw9D
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_6.png" group-title="ARABE SPORTS",Alkass Sports six FHD
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_7.png" group-title="ARABE SPORTS",Alkass Sports seven FHD
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_8.png" group-title="ARABE SPORTS",Alkass Sports eight FHD
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE SPORTS",THAMANYA SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_6.png" group-title="ARABE Channels",Alkass Sports six FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_7.png" group-title="ARABE Channels",Alkass Sports seven FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_8.png" group-title="ARABE Channels",Alkass Sports eight FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE Channels",THAMANYA SPORTS 1 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936356&extension=ts&play_token=AZZVwBVpSi
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE SPORTS",THAMANYA SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE Channels",THAMANYA SPORTS 2 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936355&extension=ts&play_token=bmdJ3Ih84d
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE SPORTS",THAMANYA SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE Channels",THAMANYA SPORTS 3 FHD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936354&extension=ts&play_token=9cRG6YpHUh
-#EXTINF:-1 tvg-logo="" group-title="ARABE SPORTS",JORDAN SPORTS
+#EXTINF:-1 tvg-logo="" group-title="ARABE Channels",JORDAN SPORTS
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591575&extension=ts&play_token=Wcd9pXbqrA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R27PK2N/Al-Fajer-TV-preview-rev-1.png" group-title="ARABE Channels",AL FAJER TV 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=892110&extension=ts&play_token=7lfu2Uc1sa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRFNy3Kf/Al-Fajer2-preview-rev-1.png" group-title="ARABE Channels",AL FAJER 2 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806743&extension=ts&play_token=Eh6SDXWdal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbqWk2S3/Al-Fajer3-preview-rev-1.png" group-title="ARABE Channels",AL FAJER 3 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806742&extension=ts&play_token=WoxkW9NTlJ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDjYW27V/Al-Fajer4-preview-rev-1.png" group-title="ARABE Channels",AL FAJER 4 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806741&extension=ts&play_token=dtz4ZoRUq4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8Jcc9p8/Al-Fajer5-preview-rev-1.png" group-title="ARABE Channels",AL FAJER 5 
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806740&extension=ts&play_token=wAs9E7LI0e
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 1 SD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859086&extension=ts&play_token=msVbnxfC6V
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 2 SD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859085&extension=ts&play_token=fgVGzCrX8I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 3 SD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859084&extension=ts&play_token=ER8ZqcXXIb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 4 SD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859083&extension=ts&play_token=SXOFeqO3Q9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 5 SD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859082&extension=ts&play_token=O4avzpgfPa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 6 SD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859081&extension=ts&play_token=K8REzPccOX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 1 HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859092&extension=ts&play_token=VB6L15tv7C
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 2 HD
