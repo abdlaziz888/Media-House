@@ -451,6 +451,19 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085187&exten
 #EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD BE
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085186&extension=ts&play_token=Q9aDqPXQFW
 
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD BA
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085180&extension=ts&play_token=hF9rlEcLY5
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD BA
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085176&extension=ts&play_token=gEOUPGnpkP
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD BA
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085179&extension=ts&play_token=hqUEGjLTgW
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD BA
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085175&extension=ts&play_token=cxbtwghQYI
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD BA
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085178&extension=ts&play_token=RH53KRkMHR
+#EXTINF:-1 group-title="beIN MAX vip2 test" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD BA
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085174&extension=ts&play_token=bAIkPOr3kV
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0TgjQc8/fifa.png" group-title="FIFA™ World Cup 26",FIFA + 
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1920886&extension=ts&play_token=iggEEn2UqX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY INFO HD
