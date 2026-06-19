@@ -246,6 +246,8 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806742&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806741&extension=ts&play_token=dtz4ZoRUq4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8Jcc9p8/Al-Fajer5-preview-rev-1.png" group-title="ARABE Channels",AL FAJER 5 
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806740&extension=ts&play_token=wAs9E7LI0e
+#EXTINF:-1 tvg-logo="           " group-title="ARABE Channels",Arryadia TNT
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=21695&extension=ts&play_token=8CcyH6cy90
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 1 SD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859086&extension=ts&play_token=msVbnxfC6V
