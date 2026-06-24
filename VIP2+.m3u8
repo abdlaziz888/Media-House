@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="test",test 1
-http://192.168.1.15:8080
+http://192.168.1.19:8080
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="ISLAMIC",Saudia Quran HD
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=7587&extension=ts&play_token=KJkAGk6jcD
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="ISLAMIC",Saudia Sonnah HD
