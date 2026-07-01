@@ -360,23 +360,23 @@ http://103.176.90.24/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411376&extensio
 #EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",biIN SPORTS 9 FHD
 http://103.176.90.24/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411375&extension=ts&play_token=qyc2FwLBFj
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKSPDyZV/TOD-4K.png" group-title="TOD VIP",TOD by beIN HDR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKSPDyZV/TOD-4K.png" group-title="TOD VIP",TOD by beIN 4K HDR
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1758742&extension=ts&play_token=AvUK44Vm9C
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 1 HDR
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747260&extension=ts&play_token=IljeKbQd3v
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 2 HDR
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747261&extension=ts&play_token=aOH9Ri8MDs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 3 HDR
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747262&extension=ts&play_token=C05A6wHSiK
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 4 HDR
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747263&extension=ts&play_token=eyVhRwS4OU
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 5 HDR
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747264&extension=ts&play_token=NNBls3GUJr
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 6 HDR
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747265&extension=ts&play_token=Cn2dac9qbM
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 7 HDR
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747266&extension=ts&play_token=q5FEtLfnlX
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 8 HDR
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747267&extension=ts&play_token=oaakMt5VhO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKSPDyZV/TOD-4K.png" group-title="TOD VIP",TOD by beIN 4K
 http://103.176.90.24/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081913&extension=ts&play_token=gtGHVJrf9C
