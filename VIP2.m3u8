@@ -1,144 +1,656 @@
 #EXTM3U
-#EXTINF:-1 group-title="ISLAMIC",Saudia Quran HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/126.ts
-#EXTINF:-1 group-title="ISLAMIC",Saudia Sonnah HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/958.ts
+#EXTINF:-1 group-title="test",test 1
+http://192.168.1.19:8080
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="ISLAMIC",Saudia Quran HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=7587&extension=ts&play_token=KJkAGk6jcD
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="ISLAMIC",Saudia Sonnah HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6627&extension=ts&play_token=6ijthi8tH9
 
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS NEWS HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/2051.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS Global HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4336.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 1 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4526.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS MAX 2 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4529.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 1 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/3221.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 2 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/3222.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 3 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/49.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 4 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/50.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 5 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/3226.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 6 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/3227.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 7 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/53.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 8 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/54.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS ",biIN SPORTS 9 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4034.ts
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/g0GxQ2VX/Logo-de-TV1-Algerie-(2020)-svg.png",programme nation HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6724&extension=ts&play_token=OQlAmQBqFp
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/NMG6w4cw/Canal-Algerie.png",Canal algerie HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6723&extension=ts&play_token=ZLqRX3BxcB
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/Fzxrjjqs/entv.png",A3 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6722&extension=ts&play_token=HtgTGymuRs
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/NfMqJq2y/Logo-de-TV4-Algerie-version-arabe-(2020)-svg.png",TV 4 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=83669&extension=ts&play_token=P3xoorAS2y
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/FKKTmNmC/Logo-de-TV5-Algerie-(2020)-svg.png",TV 5 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=8167&extension=ts&play_token=qLK3VZHUKQ
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/mk3YC5BZ/Logo-de-TV6-Algerie-(2020)-svg.png",TV 6 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=196191&extension=ts&play_token=ZxLhTpFrCQ
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/mDshC2D6/TV7-svg.png",TV 7 ELMAARIFA HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518614&extension=ts&play_token=MOxOG2wuhQ
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://i.postimg.cc/853jnBPN/TV8.png",TV 8 EDHAKIRA HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518612&extension=ts&play_token=czrvPslQX0
+#EXTINF:-1 group-title="ALGERIA Channels" tvg-logo="https://www.entv.dz/sites/default/files/styles/thumbnail/public/logos/logo-entv-tV9.png.webp?itok=OYK_Upop",ALGERIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1RWYhRK/ECHROK.png" group-title="ALGERIA Channels",ECHOUROUK TV HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6715&extension=ts&play_token=xKzucY91iQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/250px-ECHOUROUK-NEWS.png" group-title="ALGERIA Channels",ECHOUROUK NEWS
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6716&extension=ts&play_token=NZGMotUKPl
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/250px-Ennahar_TV.svg.png" group-title="ALGERIA Channels",ENNAHAR TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6717&extension=ts&play_token=GPhXBnxGln
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/El_Hayat_TV.png" group-title="ALGERIA Channels",EL HAYAT TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=84254&extension=ts&play_token=5Ld1nG7QIc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvBcxyp4/al-watania.png" group-title="ALGERIA Channels",EL WATANIA TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=518616&extension=ts&play_token=icNV7QAGAG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/El_Bilad_TV.png/250px-El_Bilad_TV.png" group-title="ALGERIA Channels",EL BILAD TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=21717&extension=ts&play_token=lnfTO94ZQO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/El_Heddaf_TV.jpg/250px-El_Heddaf_TV.jpg" group-title="ALGERIA Channels",EL HEDDAF TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6700&extension=ts&play_token=Ma6kpLphwh
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66kLGCCW/Screenshot-2026-06-06-093811-preview-rev-1444.png" group-title="ALGERIA Channels",ONE TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1472001&extension=ts&play_token=mZ01aa4jEn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/250px-Samira_TV_logo.svg.png" group-title="ALGERIA Channels",SAMIRA TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6710&extension=ts&play_token=Yl0pR7FMzi
+#EXTINF:-1 tvg-logo="https://www.zahratv.net/cdn/about/Logo11.png" group-title="ALGERIA Channels",ZAHRA TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=828228&extension=ts&play_token=oi1WpYseH1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Almagharibia_tv_channel.png/250px-Almagharibia_tv_channel.png" group-title="ALGERIA Channels",ALMAGHARIBIA TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=509328&extension=ts&play_token=wErFSwNmxp
 
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS NEWS FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/2051.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS Global FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4336.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 1 FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4525.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS MAX 2 FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4528.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 1 FHD+
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/459.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 2 FHD+
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/450.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 3 FHD+
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/451.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 4 FHD+
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/453.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 5 FHD+
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/3875.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 6 FHD+
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/455.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 7 FHD+
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4002.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 8 FHD+
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/457.ts
-#EXTINF:-1 group-title="VIP2 beIN SPORTS +",biIN SPORTS 9 FHD+
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4003.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvvZgwFS/n1.png" group-title="TUNISIA Channels",AL WATANIA 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6696&extension=ts&play_token=aJ29XuoVUC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zQkH1Kq/n2.png" group-title="TUNISIA Channels",AL WATANIA 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6695&extension=ts&play_token=L48XsmgoYi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1vTw3j1/ws.png" group-title="TUNISIA Channels",AL WATANIA SPORTS HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=851472&extension=ts&play_token=OYn9wcEQFH
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6VsNw6Y/P010-200x200.png" group-title="TUNISIA Channels",AL HIWAR ETTOUNSSI HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6689&extension=ts&play_token=jDuTdUdzEa
+#EXTINF:-1 tvg-logo="https://www.nessma.tv/images/logo.png" group-title="TUNISIA Channels",NESSMA TV HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6692&extension=ts&play_token=6MtRobcTh6
+#EXTINF:-1 tvg-logo="https://haica.tn/wp-content/uploads/2020/02/P011-200x200.png" group-title="TUNISIA Channels",HANNBAL TV HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6690&extension=ts&play_token=5XrdbpL7WE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Attessia_TV.png/250px-Attessia_TV.png" group-title="TUNISIA Channels",ATTESSIA TV HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6686&extension=ts&play_token=Q3CSmIO5w1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R08GCcbj/tl.png" group-title="TUNISIA Channels",TELVAZA TV HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6685&extension=ts&play_token=PfaFhCsNaW
+#EXTINF:-1 tvg-logo="https://haica.tn/wp-content/uploads/2020/02/P002-01-01-200x200.png" group-title="TUNISIA Channels",TUNISNA HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6688&extension=ts&play_token=FEDS7Bxz5X
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCMM6TjD/n.png" group-title="TUNISIA Channels",AL INSEN TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6623&extension=ts&play_token=Hn0PyEYPvp
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RXLLknc/m.png" group-title="TUNISIA Channels",AL MUSTAKILA TV
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=848427&extension=ts&play_token=DuO1m55a0s
 
-#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4399.ts
-#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4400.ts
-#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4401.ts
-#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4402.ts
-#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4418.ts
-#EXTINF:-1 group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/4419.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6Gwn4Xc/Mbc1logo-(2).png" group-title="MBC ROTANA",mbc 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079499&extension=ts&play_token=lrFTvFFdEN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv9Rt5Sq/MBC2-Logo-svg.png" group-title="MBC ROTANA",mbc 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079498&extension=ts&play_token=f8ZkxMoQse
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Z5GddT/MBC-3-Logo-svg.png" group-title="MBC ROTANA",mbc 3 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079497&extension=ts&play_token=5CQI5zKNQE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2ybhZBq0/MBC-4-Logo-svg.png" group-title="MBC ROTANA",mbc 4 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079496&extension=ts&play_token=mmaxEYgSCo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1wQHwKL/MBC-5-Logo-svg.png" group-title="MBC ROTANA",mbc 5
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=90929&extension=ts&play_token=gHO67Uqkit
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTGzTRHY/MBC-Action-Logo-svg.png" group-title="MBC ROTANA",mbc action HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079495&extension=ts&play_token=X4ZFjhGW1m
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zQM7Hh0/MBC-Max-logo.png" group-title="MBC ROTANA",mbc max
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079490&extension=ts&play_token=E7KEB5zVDo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDw1r4T1/MBC-Bollywood-Logo-svg.png" group-title="MBC ROTANA",mbc bollywood HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079494&extension=ts&play_token=LUKG1oFkMI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1QZQLFx/images-K.png" group-title="MBC ROTANA",zee aflam
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6593&extension=ts&play_token=tT6OdKHMbb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBGF1N0d/Zee-Alwan-2025.png" group-title="MBC ROTANA",zee alwan
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6678&extension=ts&play_token=0tIOut379a
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZpRNfZT/MBC-Drama-Logo-svg.png" group-title="MBC ROTANA",mbc drama HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079493&extension=ts&play_token=Y26V6UaxmB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kz6p4TQP/MBC-Drama-Plus-TV-Channel-Logo.png" group-title="MBC ROTANA",mbc drama+ HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2079488&extension=ts&play_token=BykDyOoJWP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJLTCLCy/mbc-variety.png" group-title="MBC ROTANA",mbc variety plus HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=529523&extension=ts&play_token=8BOIl2wJsM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYMymR3J/ZOOM.png" group-title="MBC ROTANA",mbc zoom HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765957&extension=ts&play_token=o1kk1ITVPy
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsbhbYK5/PLUS.png" group-title="MBC ROTANA",mbc plus HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765956&extension=ts&play_token=ibY2chKxrt
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgSH8gg1/MOVES.png" group-title="MBC ROTANA",mbc movies HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765954&extension=ts&play_token=C4iBAqIVA5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTdQVw5s/SYRIA.png" group-title="MBC ROTANA",mbc syrya + HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765945&extension=ts&play_token=vUYQNV6Lor
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y23B2c0n/SEVN.png" group-title="MBC ROTANA",mbc seven + HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765940&extension=ts&play_token=PaJCWAQM2I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c6yxNwXh/EGHIT.png" group-title="MBC ROTANA",mbc eight + HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765952&extension=ts&play_token=j9rapH84lz
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9KRbmn/NINE.png" group-title="MBC ROTANA",mbc nine HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765955&extension=ts&play_token=cIOp2eiM71
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT4KJhhs/TEN.png" group-title="MBC ROTANA",mbc ten + HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765948&extension=ts&play_token=4U4uWiTgGL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv0bfXyz/PREMM.png" group-title="MBC ROTANA",mbc premium 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765947&extension=ts&play_token=33aTRwJizk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59qbHY7q/PREMM.png" group-title="MBC ROTANA",mbc premium 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765946&extension=ts&play_token=8UfnvEc5hP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/653g9yD9/EG.png" group-title="MBC ROTANA",mbc lift + HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=718442&extension=ts&play_token=j3sJywFBU3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fqN1x4/POWRE.png" group-title="MBC ROTANA",mbc power + HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=643946&extension=ts&play_token=wjchwiYq08
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7zvyJhB/POWRE.png" group-title="MBC ROTANA",mbc power sport + HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=661640&extension=ts&play_token=PlP65nIsmh
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zpYW6NK/TOON-1.png" group-title="MBC ROTANA",mbc toons 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543650&extension=ts&play_token=PMpSkKALSV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sC6bQC/TOON-2.png" group-title="MBC ROTANA",mbc toons 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543651&extension=ts&play_token=KzUj4rPPTJ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q4mDXy5/TOON.png" group-title="MBC ROTANA",mbc toon HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765949&extension=ts&play_token=EVBfleSZz2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MX5Z1Nk/documentary.png" group-title="MBC ROTANA",mbc documentary HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543653&extension=ts&play_token=SnxvIGisBw
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzcZRXVm/G.png" group-title="MBC ROTANA",mbc geographic HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765953&extension=ts&play_token=rPzY9p6ZgK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X74NxcBj/ANKEED.png" group-title="MBC ROTANA",mbc anakeed HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1543652&extension=ts&play_token=yyITZh7OZh
 
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN MOVIES 1 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/24.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN MOVIES 2 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/17.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN MOVIES 3 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/18.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN MOVIES 4 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/19.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN SERIES 1 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/20.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN SERIES 2 HD 
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/21.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN DRAMA
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/15.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN CARTOON NETWORK HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/2949.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",biIN BBC EARTH FHD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/14.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN JEEM HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/22.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN JUNOR HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/2947.ts
-#EXTINF:-1 group-title="beIN ENTERTAINMANT",beIN
+#EXTINF:-1 group-title="beIN ENTERTAINMANT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",beIN MOVIES 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356721&extension=ts&play_token=BYyCiYrqnE
+#EXTINF:-1 group-title="beIN ENTERTAINMANT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png",beIN MOVIES 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356720&extension=ts&play_token=URSwxtGSG2
+#EXTINF:-1 group-title="beIN ENTERTAINMANT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",beIN MOVIES 3 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356719&extension=ts&play_token=z6oQgLJacZ
+#EXTINF:-1 group-title="beIN ENTERTAINMANT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",beIN MOVIES 4 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356718&extension=ts&play_token=jjEIOcRW8p
+#EXTINF:-1 group-title="beIN ENTERTAINMANT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/SERIES1_DIGITAL_Mono.png",beIN SERIES 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141579&extension=ts&play_token=lAK3oyzFef
+#EXTINF:-1 group-title="beIN ENTERTAINMANT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/SERIES2_DIGITAL_Mono.png",beIN SERIES 2 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141578&extension=ts&play_token=E4vABgZbsh
+#EXTINF:-1 group-title="beIN ENTERTAINMANT" tvg-logo="https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",beIN DRAMA
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141577&extension=ts&play_token=ClWxidifsb
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/Star_Action_2024-200x200-1.png" group-title="beIN ENTERTAINMANT",beIN STAR ACTION HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141570&extension=ts&play_token=HQmPzrfiYd
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/Star_Movies_2024-200x200-1.png" group-title="beIN ENTERTAINMANT",beIN STAR MOVIES HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356722&extension=ts&play_token=4xLYsAGAaz
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/0003_TCI_colour-Blue_UK2016.png" group-title="beIN ENTERTAINMANT",beIN TRAVEL HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356725&extension=ts&play_token=379RBRtzK0
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/food-network-logo-2018-1.png" group-title="beIN ENTERTAINMANT",beIN FOOD NITWAORK HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356724&extension=ts&play_token=fD0g3HZ34V
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/120px-JeemTV_logo.png" group-title="beIN ENTERTAINMANT",beIN JEEM HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141559&extension=ts&play_token=45B5fqfIxp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title="beIN ENTERTAINMANT",beIN BABY TV HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141560&extension=ts&play_token=uY28CUo6UB
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Cartoon-Network-Arabic-1.png" group-title="beIN ENTERTAINMANT",beIN CARTOON NETWORK HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141553&extension=ts&play_token=fZ1cINkKlR
+#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bddpe/unsafe/360x270/smart/56805470" group-title="beIN ENTERTAINMANT",beIN BOOMERANG HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141555&extension=ts&play_token=ueGzLHuyXQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Family_Logo_%282014%29.svg/250px-Discovery_Family_Logo_%282014%29.svg.png" group-title="beIN ENTERTAINMANT",beIN DISCOVERY FAMILY HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141562&extension=ts&play_token=RIuFql1EMB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png" group-title="beIN ENTERTAINMANT",beIN ANIMAL PLANET HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356726&extension=ts&play_token=rlhquasToM
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNNATIONALGEOGRAPHICY2025MAR/ADMNNATIONALGEOGRAPHICY2025MAR-title-logo-en.png" group-title="beIN ENTERTAINMANT",AD Nat Geo HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=6586&extension=ts&play_token=RF3Cqw7n6x
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Nat_geo_hd.png" group-title="beIN ENTERTAINMANT",NATIONAL GEO HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141564&extension=ts&play_token=eE1O7IRO19
+#EXTINF:-1 tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png" group-title="beIN ENTERTAINMANT",NATIONAL GEO WILD HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141563&extension=ts&play_token=7FzPRxfqbU
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/BBCEarth-new_200x200.png" group-title="beIN ENTERTAINMANT",biIN BBC EARTH FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141567&extension=ts&play_token=GsYAAABaGt
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010765&extension=ts&play_token=O79Bdsm12H
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010764&extension=ts&play_token=gmI7XwxObd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 3 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010763&extension=ts&play_token=dU1vvJOiP8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 4 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010762&extension=ts&play_token=xiwVbsbcm1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 5 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671288&extension=ts&play_token=qK0dPMQluu
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 6 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671287&extension=ts&play_token=kXhI7csoUs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 7 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671286&extension=ts&play_token=m6ktICjeWd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 8 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671285&extension=ts&play_token=n2qTajU2sO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 9 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671292&extension=ts&play_token=HXhfYwH0Li
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 10 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671291&extension=ts&play_token=dsJsegu8Qc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 11 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671290&extension=ts&play_token=0PcnC3A76z
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD MOVIES 12 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671289&extension=ts&play_token=50n6NnlsjG
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671284&extension=ts&play_token=CYdDWhkByL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671283&extension=ts&play_token=YWGTY883zo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLpYbdCJ/Screenshot-2026-06-05-222420-preview-rev-1.png" group-title="beIN ENTERTAINMANT",beIN OD KIDS 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=671282&extension=ts&play_token=dJ7ruDoYpz
 
-#EXTINF:-1 group-title="MBC ROTANA",mbc 1 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/845.ts
-#EXTINF:-1 group-title="MBC ROTANA",mbc 2 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/846.ts
-#EXTINF:-1 group-title="MBC ROTANA",mbc 3 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/847.ts
-#EXTINF:-1 group-title="MBC ROTANA",mbc 4 HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/848.ts
-#EXTINF:-1 group-title="MBC ROTANA",mbc 5
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/2114.ts
-#EXTINF:-1 group-title="MBC ROTANA",mbc action HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/853.ts
-#EXTINF:-1 group-title="MBC ROTANA",mbc max
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/854.ts
-#EXTINF:-1 group-title="MBC ROTANA",mbc bollywood HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/849.ts
-#EXTINF:-1 group-title="MBC ROTANA",mbc drama HD
-http://ugeen.live:8080/live/Ugeen_VIPX4ots7/XbjwGP/852.ts
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/36/f0/fullhd_7b5a1c62d4c0785dff72d85e41ade22b9478258b.png" group-title="ARABE Channels",KSA SPORTS 1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079507&extension=ts&play_token=zioeF83Rhz
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/57/09/fullhd_470ef56d4e496e82df1d74aca7edeef597b2e541.png" group-title="ARABE Channels",KSA SPORTS 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079506&extension=ts&play_token=IuXr2POzZc
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/2d/ee/fullhd_f1d461237592b4d46c44a6f300df1d97051f7c55.png" group-title="ARABE Channels",KSA SPORTS 3 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2079505&extension=ts&play_token=pa5oUFxoxG
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS1Y2025MAR/ADMNADSPORTS1Y2025MAR-title-logo-en.png" group-title="ARABE Channels",AD SPORTS 1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591601&extension=ts&play_token=ijqe9do2wE
+#EXTINF:-1 tvg-logo="https://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS2Y2025MAR/ADMNADSPORTS2Y2025MAR-title-logo-en.png" group-title="ARABE Channels",AD SPORTS 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591600&extension=ts&play_token=McCkHmXips
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_1.png" group-title="ARABE Channels",Alkass Sports one FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591593&extension=ts&play_token=hasEdp7HLU
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_2.png" group-title="ARABE Channels",Alkass Sports two FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591591&extension=ts&play_token=f89PSNB468
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_3.png" group-title="ARABE Channels",Alkass Sports three FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=787903&extension=ts&play_token=Ilw2VhAn7y
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_4.png" group-title="ARABE Channels",Alkass Sports four FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591588&extension=ts&play_token=kY6lYMpaSg
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_5.png" group-title="ARABE Channels",Alkass Sports five FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591587&extension=ts&play_token=KI30CaQw9D
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_6.png" group-title="ARABE Channels",Alkass Sports six FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_7.png" group-title="ARABE Channels",Alkass Sports seven FHD
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_8.png" group-title="ARABE Channels",Alkass Sports eight FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE Channels",THAMANYA SPORTS 1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936356&extension=ts&play_token=AZZVwBVpSi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE Channels",THAMANYA SPORTS 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936355&extension=ts&play_token=bmdJ3Ih84d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV9wMmJ4/download-preview-rev-1HH.png" group-title="ARABE Channels",THAMANYA SPORTS 3 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1936354&extension=ts&play_token=9cRG6YpHUh
+#EXTINF:-1 tvg-logo="" group-title="ARABE Channels",JORDAN SPORTS
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=591575&extension=ts&play_token=Wcd9pXbqrA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R27PK2N/Al-Fajer-TV-preview-rev-1.png" group-title="ARABE Channels",AL FAJER TV 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=892110&extension=ts&play_token=7lfu2Uc1sa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRFNy3Kf/Al-Fajer2-preview-rev-1.png" group-title="ARABE Channels",AL FAJER 2 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806743&extension=ts&play_token=Eh6SDXWdal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbqWk2S3/Al-Fajer3-preview-rev-1.png" group-title="ARABE Channels",AL FAJER 3 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806742&extension=ts&play_token=WoxkW9NTlJ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDjYW27V/Al-Fajer4-preview-rev-1.png" group-title="ARABE Channels",AL FAJER 4 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806741&extension=ts&play_token=dtz4ZoRUq4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8Jcc9p8/Al-Fajer5-preview-rev-1.png" group-title="ARABE Channels",AL FAJER 5 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1806740&extension=ts&play_token=wAs9E7LI0e
+#EXTINF:-1 tvg-logo="           " group-title="ARABE Channels",Arryadia TNT
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=21695&extension=ts&play_token=8CcyH6cy90
 
-#EXTINF:-1 group-title="ARABE SPORTS",KSA SPORTS 1 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",KSA SPORTS 2 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",KSA SPORTS 3 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",AD SPORTS 1
-#EXTINF:-1 group-title="ARABE SPORTS",AD SPORTS 2
-#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 1 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 2 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 3 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 4 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 5 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 6 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 7 FHD
-#EXTINF:-1 group-title="ARABE SPORTS",ALKASS SPORTS 8 FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 1 SD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859086&extension=ts&play_token=msVbnxfC6V
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 2 SD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859085&extension=ts&play_token=fgVGzCrX8I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 3 SD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859084&extension=ts&play_token=ER8ZqcXXIb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 4 SD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859083&extension=ts&play_token=SXOFeqO3Q9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 5 SD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859082&extension=ts&play_token=O4avzpgfPa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 6 SD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859081&extension=ts&play_token=K8REzPccOX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859092&extension=ts&play_token=VB6L15tv7C
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859091&extension=ts&play_token=boqUSJOHFa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 3 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859090&extension=ts&play_token=AxII8HZfxX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 4 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859089&extension=ts&play_token=wmZWPaK1nN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 5 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859088&extension=ts&play_token=NGbtSIGXRo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 6 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859087&extension=ts&play_token=wqOquIAUX6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859098&extension=ts&play_token=VV4VatjODO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859097&extension=ts&play_token=CHxNtgyXNq
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859096&extension=ts&play_token=W8RxcHlt4I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859095&extension=ts&play_token=xQAYTf42yE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859094&extension=ts&play_token=sukL48ONMp
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859093&extension=ts&play_token=kP1zdtMH31
 
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",biIN SPORTS NEWS HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836269&extension=ts&play_token=YVpx8xfdE7
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",biIN SPORTS Global HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836270&extension=ts&play_token=feJCc3oQ0v
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085193&extension=ts&play_token=KiS5dYD8ct
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085192&extension=ts&play_token=ImbRr1MCHB
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085191&extension=ts&play_token=bNtQJGqC7G
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085190&extension=ts&play_token=HvxODv4FTJ
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",biIN SPORTS MAX 5 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085189&extension=ts&play_token=jLxh7pclRq
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",biIN SPORTS MAX 6 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085188&extension=ts&play_token=qmdZMTxNAi
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",biIN SPORTS 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411374&extension=ts&play_token=fA685ifFNr
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",biIN SPORTS 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411373&extension=ts&play_token=iRHirK9m2z
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",biIN SPORTS 3 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411372&extension=ts&play_token=rmTUr7dfxq
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",biIN SPORTS 4 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411371&extension=ts&play_token=nFBSsCx2fE
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411370&extension=ts&play_token=x8ir8h2SEG
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",biIN SPORTS 6 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411369&extension=ts&play_token=hZkUIDqHeG
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",biIN SPORTS 7 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411368&extension=ts&play_token=RNRSB229eR
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",biIN SPORTS 8 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411367&extension=ts&play_token=G0DZiShqWA
+#EXTINF:-1 group-title="VIP2 beIN SPORTS " tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",biIN SPORTS 9 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411366&extension=ts&play_token=fWVW3UwtOY
+
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png",biIN 4K UHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2034167&extension=ts&play_token=6Yu3cC7v7z
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",biIN SPORTS NEWS FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836269&extension=ts&play_token=YVpx8xfdE7
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",biIN SPORTS Global FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836270&extension=ts&play_token=feJCc3oQ0v
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085199&extension=ts&play_token=FhXCuVZHk2
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085198&extension=ts&play_token=pJFNfPZV5n
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085197&extension=ts&play_token=AUBXM42vzB
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085196&extension=ts&play_token=PhjhiTBe7T
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",biIN SPORTS MAX 5 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085195&extension=ts&play_token=lrOkhO8Ppg
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",biIN SPORTS MAX 6 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085194&extension=ts&play_token=5m2ndu6abx
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",biIN SPORTS 1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836268&extension=ts&play_token=ZSiwB6wfZ4
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png",biIN SPORTS 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836267&extension=ts&play_token=y49H9XSjxf
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",biIN SPORTS 3 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836266&extension=ts&play_token=k3NPYsPZZp
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",biIN SPORTS 4 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836265&extension=ts&play_token=hndpjYuOJh
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",biIN SPORTS 5 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836264&extension=ts&play_token=zxjeAMzVsh
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono-d-1.png",biIN SPORTS 6 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411378&extension=ts&play_token=MwgPQndLmk
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",biIN SPORTS 7 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1836262&extension=ts&play_token=HJAFOq5d9X
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png",biIN SPORTS 8 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411376&extension=ts&play_token=dv5CIOAQFu
+#EXTINF:-1 group-title="VIP2 beIN SPORTS +" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png",biIN SPORTS 9 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1411375&extension=ts&play_token=qyc2FwLBFj
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKSPDyZV/TOD-4K.png" group-title="TOD VIP",TOD by beIN HDR
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1758742&extension=ts&play_token=AvUK44Vm9C
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747260&extension=ts&play_token=IljeKbQd3v
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 2
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747261&extension=ts&play_token=aOH9Ri8MDs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747262&extension=ts&play_token=C05A6wHSiK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 4
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747263&extension=ts&play_token=eyVhRwS4OU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 5
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747264&extension=ts&play_token=NNBls3GUJr
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 6
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747265&extension=ts&play_token=Cn2dac9qbM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 7
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747266&extension=ts&play_token=q5FEtLfnlX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 8
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1747267&extension=ts&play_token=oaakMt5VhO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKSPDyZV/TOD-4K.png" group-title="TOD VIP",TOD by beIN 4K
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081913&extension=ts&play_token=gtGHVJrf9C
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 1
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081912&extension=ts&play_token=WdQhE0NuT5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 2
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081911&extension=ts&play_token=Pmwlacq5M1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 3
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081910&extension=ts&play_token=WBa9Ihjr3o
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 4
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081909&extension=ts&play_token=duFjxexftS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 5
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081908&extension=ts&play_token=rt84D7q5cc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 6
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081907&extension=ts&play_token=MfZXk8dS3V
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 7
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081906&extension=ts&play_token=wgHk7IhyWP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 8
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081905&extension=ts&play_token=KMnG7SpZMy
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN 9
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081904&extension=ts&play_token=RSmhcbqi5q
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvmdd45s/SHARQIYA.png" group-title="TOD VIP",AL SHARQIYA + TOD TV 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=7804&extension=ts&play_token=K8NqnjVakx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN EXTRA 1
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081901&extension=ts&play_token=303dEwWcV2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN EXTRA 2
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081900&extension=ts&play_token=1i8zyaZGhx
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN EXTRA 3
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081899&extension=ts&play_token=EMUEJkFEcc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN EXTRA 4
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081898&extension=ts&play_token=uLTxrffR94
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN EXTRA 5
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081898&extension=ts&play_token=uLTxrffR94
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN EXTRA 6
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081896&extension=ts&play_token=GmLPLESE3I
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN EXTRA 7
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081895&extension=ts&play_token=xa974C6JeJ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN EXTRA 8
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081894&extension=ts&play_token=XtTPdXbqD1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf6Kwy0d/TOD-by-be-IN.png" group-title="TOD VIP",TOD by beIN EXTRA 9
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2081893&extension=ts&play_token=QnpLm39nJP
+
+
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS 4K HDR
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2095904&extension=ts&play_token=4fgOrsSJIZ
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077621&extension=ts&play_token=GdtedSaUwd
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077608&extension=ts&play_token=U5K6rdFlPD
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077619&extension=ts&play_token=0aErxgljfi
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077618&extension=ts&play_token=zCOPoidR1P
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077609&extension=ts&play_token=Y8tKxn9Jy7
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077608&extension=ts&play_token=U5K6rdFlPD
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077607&extension=ts&play_token=imnsrKUv7m
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077606&extension=ts&play_token=0g6ILkUEN1
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077603&extension=ts&play_token=5au1dYJ6R1
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077602&extension=ts&play_token=l3EPBpxakY
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077601&extension=ts&play_token=8M4z6ZdW6c
+#EXTINF:-1 group-title="beIN MAX FM" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077600&extension=ts&play_token=vlrJLgSDFn
+
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS 4K HDR
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2095904&extension=ts&play_token=4fgOrsSJIZ
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085728&extension=ts&play_token=Qaat3a2wkQ
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085725&extension=ts&play_token=8N2CMcQtMr
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085721&extension=ts&play_token=I1yGYSjhgI
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085717&extension=ts&play_token=IjDZEsIpTA
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085727&extension=ts&play_token=eLYWYTPaI0
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085724&extension=ts&play_token=HaVWr4zXuZ
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085720&extension=ts&play_token=Pc443uB2pu
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085716&extension=ts&play_token=vUkaErWfAe
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085726&extension=ts&play_token=mtWLVqsnaW
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085723&extension=ts&play_token=ralkTMeuK4
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085719&extension=ts&play_token=5kceor9Dpx
+#EXTINF:-1 group-title="beIN MAX G" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085715&extension=ts&play_token=0bT53Ouzzr
+
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS 4K HDR
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2097322&extension=ts&play_token=dZUcFp4Vob
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076984&extension=ts&play_token=v6FEBUuDJs
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076983&extension=ts&play_token=GRHPHMR56n
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076972&extension=ts&play_token=BsIZ2qu2xT
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076971&extension=ts&play_token=Qux8cyySpr
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076966&extension=ts&play_token=1JR5utcyti
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076965&extension=ts&play_token=VahilcdezC
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
+#EXTINF:-1 group-title="beIN MAX MN" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
+
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS 4K HDR
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2095904&extension=ts&play_token=4fgOrsSJIZ
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085199&extension=ts&play_token=81tX5u5ZFm
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085198&extension=ts&play_token=rvPlJslJut
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085197&extension=ts&play_token=bGYdLhfSJv
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085196&extension=ts&play_token=0gSLNPmchq
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085193&extension=ts&play_token=asTHmT97wy
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085192&extension=ts&play_token=EQWGxpl6B3
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085191&extension=ts&play_token=1OkWMV3fqF
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085190&extension=ts&play_token=24AnMOFrtS
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085187&extension=ts&play_token=bKn1wClL9s
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085186&extension=ts&play_token=Q9aDqPXQFW
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085185&extension=ts&play_token=9bDjzoHODc
+#EXTINF:-1 group-title="beIN MAX BE" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD 
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085184&extension=ts&play_token=JB4TMoECFf
+
+#EXTINF:-1 group-title="beIN MAX BA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS 4K HDR
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2095904&extension=ts&play_token=4fgOrsSJIZ
+#EXTINF:-1 group-title="beIN MAX BA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085180&extension=ts&play_token=hF9rlEcLY5
+#EXTINF:-1 group-title="beIN MAX BA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085176&extension=ts&play_token=gEOUPGnpkP
+#EXTINF:-1 group-title="beIN MAX BA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085179&extension=ts&play_token=hqUEGjLTgW
+#EXTINF:-1 group-title="beIN MAX BA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085175&extension=ts&play_token=cxbtwghQYI
+#EXTINF:-1 group-title="beIN MAX BA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085178&extension=ts&play_token=RH53KRkMHR
+#EXTINF:-1 group-title="beIN MAX BA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:4A:51:DF&stream=2085174&extension=ts&play_token=bAIkPOr3kV
+
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS 4K HDR
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2095904&extension=ts&play_token=4fgOrsSJIZ
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 FHD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745020&extension=ts&play_token=fVDBU07o1d
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745019&extension=ts&play_token=gqeH4flf5C
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745018&extension=ts&play_token=XbCXxdOGes
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745017&extension=ts&play_token=mlQMYercUF
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745022&extension=ts&play_token=DY9pQiEvlJ
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745023&extension=ts&play_token=Ddx3xwy6wX
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745024&extension=ts&play_token=YGABGngvcU
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745025&extension=ts&play_token=0INNfo4DdJ
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745030&extension=ts&play_token=3RsBYxGEjU
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745029&extension=ts&play_token=LUP9qKZ8Qd
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745028&extension=ts&play_token=v5eZpfUBhq
+#EXTINF:-1 group-title="beIN MAX AP" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD 
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745027&extension=ts&play_token=XuYFq4SZz0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0TgjQc8/fifa.png" group-title="FIFA™ World Cup 26",FIFA + 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1920886&extension=ts&play_token=iggEEn2UqX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY INFO HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085222&extension=ts&play_token=llZ7h8w1pK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085221&extension=ts&play_token=2VpvMZb6G8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085220&extension=ts&play_token=yudVCNNsM0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 3 HD 
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085219&extension=ts&play_token=2njjKuBGS0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 4 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085218&extension=ts&play_token=EOjvbNwPc7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 5 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085217&extension=ts&play_token=FZZKO1cX96
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 6 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085216&extension=ts&play_token=g99SAzmD6B
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 7 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085215&extension=ts&play_token=0zqQteAsuS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 8 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085214&extension=ts&play_token=xpWOGawINw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 9 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085213&extension=ts&play_token=8JU0CnUv9F
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 10 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085212&extension=ts&play_token=is926R2qtE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 11 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085211&extension=ts&play_token=5eB64fPkad
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 12 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085210&extension=ts&play_token=bQgPnAcx1e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 13 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085209&extension=ts&play_token=Ubk7QLU8cx
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 14 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085208&extension=ts&play_token=CX7pSehQqy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA™ World Cup 26",bWORLD CUP 2026 REPLAY 15 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085207&extension=ts&play_token=aNAEHlp9Fj
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHJyNJR/dazn.png" group-title="FIFA™ World Cup 26",DAZN LALIGA 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=986641&extension=ts&play_token=8gzEKQVLbj
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHJyNJR/dazn.png" group-title="FIFA™ World Cup 26",DAZN LALIGA 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1347433&extension=ts&play_token=3Wg096G7oa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHJyNJR/dazn.png" group-title="FIFA™ World Cup 26",DAZN LALIGA 3 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074435&extension=ts&play_token=X0dLhTmviU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHJyNJR/dazn.png" group-title="FIFA™ World Cup 26",DAZN LALIGA 4 HD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074434&extension=ts&play_token=W6iH258hZL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHJyNJR/dazn.png" group-title="FIFA™ World Cup 26",DAZN LALIGA 1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=986639&extension=ts&play_token=83pUOTINST
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHJyNJR/dazn.png" group-title="FIFA™ World Cup 26",DAZN LALIGA 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=1547249&extension=ts&play_token=0IdzhsVOmz
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHJyNJR/dazn.png" group-title="FIFA™ World Cup 26",DAZN LALIGA 3 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074438&extension=ts&play_token=2uZTbVAL1V
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHJyNJR/dazn.png" group-title="FIFA™ World Cup 26",DAZN LALIGA 4 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2074437&extension=ts&play_token=mFWz022EE7
+#EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",SPORT TV 1 HD
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2090197&extension=ts&play_token=gNStPdzGZo
+#EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",SPORT TV 2 HD
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2090196&extension=ts&play_token=RTXvBkzR3a
+#EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",SPORT TV 3 HD
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=107434&extension=ts&play_token=YFO0DcTUSL
+#EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",SPORT TV 4 HD
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=107433&extension=ts&play_token=E6rFFQKnIp
+#EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",SPORT TV 1 SD
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=148671&extension=ts&play_token=gihEp6EnQL
+#EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",SPORT TV 2 SD
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=148670&extension=ts&play_token=bwsfQXDUBF
+#EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",SPORT TV 3 SD
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=148669&extension=ts&play_token=jp37UG37aa
+#EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",SPORT TV 4 SD
+http://185.243.7.190:80:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=148668&extension=ts&play_token=5cMIWjS4eu
+#EXTINF:-1 tvg-logo="" group-title="bWORLD CUP 2026 REPLAY",
+
+
+
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8?orig=arabic
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live-hls-web-ajd-gcp.thehlive.com/AJD/index.m3u8
-#EXTINF:-1 group-title="---------",xxxxx
+#EXTINF:-1 tvg-logo="     " group-title="---------",xxxxx
 https://live-hls-web-ajm-gcp.thehlive.com/AJM/index.m3u8
