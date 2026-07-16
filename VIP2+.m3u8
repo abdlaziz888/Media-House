@@ -424,25 +424,25 @@ http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2095904&exten
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077621&extension=ts&play_token=GdtedSaUwd
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD FM
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077608&extension=ts&play_token=U5K6rdFlPD
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD FM
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD FM
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077619&extension=ts&play_token=0aErxgljfi
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD FM
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD FM
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077618&extension=ts&play_token=zCOPoidR1P
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD FM
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077609&extension=ts&play_token=Y8tKxn9Jy7
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD FM
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077608&extension=ts&play_token=U5K6rdFlPD
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD FM
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD FM
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077607&extension=ts&play_token=imnsrKUv7m
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD FM
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD FM
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077606&extension=ts&play_token=0g6ILkUEN1
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD FM
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077603&extension=ts&play_token=5au1dYJ6R1
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD FM
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077602&extension=ts&play_token=l3EPBpxakY
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD FM
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD FM
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077601&extension=ts&play_token=8M4z6ZdW6c
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD FM
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD FM
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2077600&extension=ts&play_token=vlrJLgSDFn
 
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",--------------beIN MAX G--------------
@@ -451,25 +451,25 @@ http://185.243.7.171:80
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085728&extension=ts&play_token=Qaat3a2wkQ
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD G
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085725&extension=ts&play_token=8N2CMcQtMr
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD G
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD G
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085721&extension=ts&play_token=I1yGYSjhgI
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD G
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD G
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085717&extension=ts&play_token=IjDZEsIpTA
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD G
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085727&extension=ts&play_token=eLYWYTPaI0
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD G
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085724&extension=ts&play_token=HaVWr4zXuZ
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD G
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD G
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085720&extension=ts&play_token=Pc443uB2pu
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD G
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD G
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085716&extension=ts&play_token=vUkaErWfAe
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD G
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085726&extension=ts&play_token=mtWLVqsnaW
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD G
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085723&extension=ts&play_token=ralkTMeuK4
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD G
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD G
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085719&extension=ts&play_token=5kceor9Dpx
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD G
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD G
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085715&extension=ts&play_token=0bT53Ouzzr
 
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",--------------beIN MAX MN--------------
@@ -478,25 +478,25 @@ http://185.243.7.171:80
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076984&extension=ts&play_token=v6FEBUuDJs
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD MN
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076983&extension=ts&play_token=GRHPHMR56n
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD MN
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD MN
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD MN
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD MN
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD MN
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076972&extension=ts&play_token=BsIZ2qu2xT
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD MN
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076971&extension=ts&play_token=Qux8cyySpr
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD MN
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD MN
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD MN
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD MN
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD MN
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076966&extension=ts&play_token=1JR5utcyti
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD MN
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2076965&extension=ts&play_token=VahilcdezC
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD MN
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD MN
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD MN
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD MN
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2098112&extension=ts&play_token=w7CSItk29Q
 
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",--------------beIN MAX BE--------------
@@ -505,25 +505,25 @@ http://185.243.7.171:80
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085199&extension=ts&play_token=81tX5u5ZFm
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD BE
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085198&extension=ts&play_token=rvPlJslJut
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD BE
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD BE
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085197&extension=ts&play_token=bGYdLhfSJv
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD BE
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD BE
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085196&extension=ts&play_token=0gSLNPmchq
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD BE
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085193&extension=ts&play_token=asTHmT97wy
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD BE
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085192&extension=ts&play_token=EQWGxpl6B3
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD BE
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD BE
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085191&extension=ts&play_token=1OkWMV3fqF
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD BE
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD BE
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085190&extension=ts&play_token=24AnMOFrtS
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD BE
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085187&extension=ts&play_token=bKn1wClL9s
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD BE
 http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085186&extension=ts&play_token=Q9aDqPXQFW
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD BE
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD BE
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085185&extension=ts&play_token=9bDjzoHODc
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD BE
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD BE
 http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2085184&extension=ts&play_token=JB4TMoECFf
 
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",--------------beIN MAX BA--------------
@@ -547,25 +547,25 @@ http://185.243.7.171:80
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745020&extension=ts&play_token=fVDBU07o1d
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 FHD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745019&extension=ts&play_token=gqeH4flf5C
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD AP
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 FHD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745018&extension=ts&play_token=XbCXxdOGes
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD AP
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 FHD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745017&extension=ts&play_token=mlQMYercUF
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 HD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745022&extension=ts&play_token=DY9pQiEvlJ
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 HD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745023&extension=ts&play_token=Ddx3xwy6wX
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD AP
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 HD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745024&extension=ts&play_token=YGABGngvcU
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD AP
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 HD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745025&extension=ts&play_token=0INNfo4DdJ
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 1 SD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745030&extension=ts&play_token=3RsBYxGEjU
 #EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png",biIN SPORTS MAX 2 SD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745029&extension=ts&play_token=LUP9qKZ8Qd
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD AP
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png",biIN SPORTS MAX 3 SD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745028&extension=ts&play_token=v5eZpfUBhq
-#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD AP
+#EXTINF:-1 group-title="beIN MAX" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",biIN SPORTS MAX 4 SD AP
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:46:18&stream=1745027&extension=ts&play_token=XuYFq4SZz0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0TgjQc8/fifa.png" group-title="FIFA™ World Cup 26",FIFA + 
