@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 1 FHD
+#EXT-X-STREAM-INF: BANDWIDTH=8000000, RESOLUTION=3840x2160
+#EXT-X-STREAM-INF: BANDWIDTH=4500000, RESOLUTION=1920x1080
+http://185.243.7.171/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859098&extension=ts&play_token=VV4VatjODO
+#EXT-X-STREAM-INF: BANDWIDTH=2500000, RESOLUTION=1280x720
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859092&extension=ts&play_token=VB6L15tv7C
+#EXT-X-STREAM-INF: BANDWIDTH=200000, RESOLUTION=426x240
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859086&extension=ts&play_token=msVbnxfC6V
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 2 FHD
+#EXT-X-STREAM-INF: BANDWIDTH=8000000, RESOLUTION=3840x2160
+#EXT-X-STREAM-INF: BANDWIDTH=4500000, RESOLUTION=1920x1080
+http://185.243.7.171/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859097&extension=ts&play_token=CHxNtgyXNq
+#EXT-X-STREAM-INF: BANDWIDTH=2500000, RESOLUTION=1280x720
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859091&extension=ts&play_token=boqUSJOHFa
+#EXT-X-STREAM-INF: BANDWIDTH=200000, RESOLUTION=426x240
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859085&extension=ts&play_token=fgVGzCrX8I
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 3 FHD
+#EXT-X-STREAM-INF: BANDWIDTH=8000000, RESOLUTION=3840x2160
+#EXT-X-STREAM-INF: BANDWIDTH=4500000, RESOLUTION=1920x1080
+http://185.243.7.171/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859096&extension=ts&play_token=W8RxcHlt4I
+#EXT-X-STREAM-INF: BANDWIDTH=2500000, RESOLUTION=1280x720
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859090&extension=ts&play_token=AxII8HZfxX
+#EXT-X-STREAM-INF: BANDWIDTH=200000, RESOLUTION=426x240
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859084&extension=ts&play_token=ER8ZqcXXIb
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 4 FHD
+#EXT-X-STREAM-INF: BANDWIDTH=8000000, RESOLUTION=3840x2160
+#EXT-X-STREAM-INF: BANDWIDTH=4500000, RESOLUTION=1920x1080
+http://185.243.7.171/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859095&extension=ts&play_token=xQAYTf42yE
+#EXT-X-STREAM-INF: BANDWIDTH=2500000, RESOLUTION=1280x720
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859089&extension=ts&play_token=wmZWPaK1nN
+#EXT-X-STREAM-INF: BANDWIDTH=200000, RESOLUTION=426x240
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859083&extension=ts&play_token=SXOFeqO3Q9
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 5 FHD
+#EXT-X-STREAM-INF: BANDWIDTH=8000000, RESOLUTION=3840x2160
+#EXT-X-STREAM-INF: BANDWIDTH=4500000, RESOLUTION=1920x1080
+http://185.243.7.171/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859094&extension=ts&play_token=sukL48ONMp
+#EXT-X-STREAM-INF: BANDWIDTH=2500000, RESOLUTION=1280x720
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859088&extension=ts&play_token=NGbtSIGXRo
+#EXT-X-STREAM-INF: BANDWIDTH=200000, RESOLUTION=426x240
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859082&extension=ts&play_token=O4avzpgfPa
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzwcz5xx/ALWAN-SP.png" group-title="ALWAN SPORTS",ALWAN SPORTS 6 FHD
+#EXT-X-STREAM-INF: BANDWIDTH=8000000, RESOLUTION=3840x2160
+#EXT-X-STREAM-INF: BANDWIDTH=4500000, RESOLUTION=1920x1080
+http://185.243.7.171/play/live.php?mac=00:1B:79:4A:51:DF&stream=1859093&extension=ts&play_token=kP1zdtMH31
+#EXT-X-STREAM-INF: BANDWIDTH=2500000, RESOLUTION=1280x720
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859087&extension=ts&play_token=wqOquIAUX6
+#EXT-X-STREAM-INF: BANDWIDTH=200000, RESOLUTION=426x240
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1859081&extension=ts&play_token=K8REzPccOX
